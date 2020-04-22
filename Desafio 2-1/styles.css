@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Roboto', sans-serif;
+}
+
+header div {
+    text-align: center;
+    background: rgb(59, 59, 59);
+    padding: 30px;
+}
+
+header div a {
+    text-decoration: none;
+    color: white;
+    margin: 0 30px;
+}
