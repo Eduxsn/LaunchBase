@@ -31,7 +31,33 @@ body h1 {
     margin-top: 30px;
 }
 
+body p {
+    margin-top: 5px;
+}
+
 body a {
     text-decoration: none;
     color: #FFF;
+}
+
+.techs {
+    padding-top: 10px;
+}
+
+li {
+    padding: 2px;
+}
+
+.socials {
+    padding: 15px;
+}
+
+.socials a {
+    padding: 0 20px;
+    color: #7159c1;
+    font-weight: bold;
+}
+
+.socials a:hover{
+    opacity: 0.8;
 }
