@@ -149,8 +149,6 @@ header {
 iframe {
     width: 100%;
     height: 90%;
-}
-
-.modal-content {
-    top: 0px;
+    position: absolute;
+    top: 5%;
 }
